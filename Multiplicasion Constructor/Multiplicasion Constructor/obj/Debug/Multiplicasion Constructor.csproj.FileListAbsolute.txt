@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\bin\Debug\Multiplicasion Constructor.exe.config
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\bin\Debug\Multiplicasion Constructor.exe
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\bin\Debug\Multiplicasion Constructor.pdb
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\obj\Debug\Multiplicasion Constructor.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\obj\Debug\Multiplicasion Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\obj\Debug\Multiplicasion_Constructor.Form1.resources
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\obj\Debug\Multiplicasion_Constructor.Properties.Resources.resources
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\obj\Debug\Multiplicasion Constructor.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\obj\Debug\Multiplicasion Constructor.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\obj\Debug\Multiplicasion Constructor.exe
+C:\Users\emili\source\repos\Multiplicasion Constructor\Multiplicasion Constructor\obj\Debug\Multiplicasion Constructor.pdb
